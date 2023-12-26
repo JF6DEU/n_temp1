@@ -1,2 +1,2 @@
-# this is a test novel project.No need to relese with public mode.
-there has no comment.
+#小説?いや、台本である。
+台本をGitで書いてみました。
